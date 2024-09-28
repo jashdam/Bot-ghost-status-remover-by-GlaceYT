@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Monitoreando"];
+const statusMessages = ["Processing 911 and non-emergency fire department calls"];
 
 
 let currentIndex = 0;
