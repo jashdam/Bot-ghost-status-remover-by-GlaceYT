@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Semper Paratus"];
+const statusMessages = ["Monitoreando"];
 
 
 let currentIndex = 0;
